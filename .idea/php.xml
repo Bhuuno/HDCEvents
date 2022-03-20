@@ -111,6 +111,16 @@
       <path value="$PROJECT_DIR$/hdcevents/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/hdcevents/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/hdcevents/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/hdcevents/vendor/livewire/livewire" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">

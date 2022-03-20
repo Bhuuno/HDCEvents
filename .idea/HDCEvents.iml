@@ -117,6 +117,16 @@
       <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/phpunit/php-file-iterator" />
       <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/mobiledetect/mobiledetectlib" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/laravel/jetstream" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/laravel/fortify" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/dasprid/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/jaybizzle/crawler-detect" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/jenssegers/agent" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/pragmarx/google2fa" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/hdcevents/vendor/livewire/livewire" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -16,7 +16,7 @@ use App\Http\Controllers\EventController;
 
                     /*EVENT CONTROLLER*/
 Route::get('/', [EventController::class,'index']);
-Route::get('/events/create', [EventController::class,'create']);
+Route::get('/events/create', [EventController::class,'create'])->middleware('auth');//Solicitar que usuário faça login
 Route::get('/events/{id}', [EventController::class,'show']);
 Route::get('/events/contato',[EventController::class,'contato']);
 Route::post('/events',[EventController::class,'store']);
@@ -35,3 +35,7 @@ Route::get('/produto/{id}',function ($id){
 });
 
 
+
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+    return view('dashboard');
+})->name('dashboard');
